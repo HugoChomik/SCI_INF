@@ -1,0 +1,6 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\admin\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication6.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
